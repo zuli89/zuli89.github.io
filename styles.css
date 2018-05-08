@@ -1,0 +1,82 @@
+
+body{
+    font-family: 'Quicksand';
+    margin-right: 1%;
+    margin-left: 1%;
+    max-width: 100%;
+}
+
+header, #featured-work{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/*header */
+header{
+    border-bottom: 2px solid #4ac5ce;
+}
+
+.logo{
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 12%;
+}
+.logo-img{
+    width: 100%;
+
+}
+.header-text{
+    width: 83%;
+    text-align: right;
+    
+}
+.header-name{
+    font-size: 2em;
+    margin: 2% 1%;
+}
+
+.header-name-desc{
+    font-size: 1.5em;
+    font-weight: 200;
+    color: #4ac5ce;
+    margin-top: 1%;
+}
+
+/*image*/
+
+
+.main-img{
+    max-width:100%;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+#image{
+    padding-top: 2%;
+    border-radius: 3px;
+}
+
+/*featured work*/
+h2{
+    font-size:1.7em;
+    text-align: center;
+    width: 100%;
+}
+
+h4, .proj-desc{
+    text-align: center;
+
+}
+
+
+.project{
+    width: 30%;
+    padding: 1% 1% 0 1%;
+    flex-grow: 1;
+}
+
+.work-img{
+    width: 100%;
+    border-radius: 6px;
+}
+

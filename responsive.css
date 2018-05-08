@@ -1,0 +1,91 @@
+@media screen and (min-width:1000px) {
+	body {
+		width: 1000px;
+		margin-right: auto;
+		margin-left:auto;
+	}
+}
+
+@media screen and (max-width: 650px){
+
+	.header-name, .header-name-desc{
+    	font-size: 1.5em;
+    	margin: 2% 1%;
+	}
+
+	.header-name-desc{
+		font-size: 1em;
+
+	}
+
+	h2{
+		font-size: 1.25em;
+	}
+
+	.logo-img{
+		margin-left: 10px;
+	}
+
+	h4{
+		font-size: 0.8em;
+	}
+
+}
+
+@media screen and (max-width: 750px){
+
+	.project{
+    	width:48%;
+    	padding: 0 1% 0 1%;
+	}
+
+	#project-3{
+		flex-grow: 0;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 2%;
+	}
+}
+
+@media screen and (max-width: 550px){
+
+	.logo{
+		width: 15%;
+	}
+
+	.header-text{
+    	width: 85%;
+    }
+
+	.project{
+		width:80%;
+		flex-grow:0;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.work-img{
+		width:100%;
+	}
+
+@media screen and (max-width: 365px){
+
+	.header-name, .header-name-desc{
+    	font-size: 1.1em;
+    	margin: 2% 1%;
+	}
+
+	.header-name-desc, .proj-desc{
+		font-size: 0.9em;
+
+	}
+
+	h2{
+		font-size: 1.1em;
+	}
+
+	h4{
+		font-size: 0.9em;
+	}
+
+}
