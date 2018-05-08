@@ -13,7 +13,7 @@ header, #featured-work{
 
 /*header */
 header{
-    border-bottom: 2px solid #4ac5ce;
+    border-bottom: 2px solid #afa3a9;
 }
 
 .logo{
@@ -38,7 +38,7 @@ header{
 .header-name-desc{
     font-size: 1.5em;
     font-weight: 200;
-    color: #4ac5ce;
+    color: #afa3a9;
     margin-top: 1%;
 }
 
