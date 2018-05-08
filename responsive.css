@@ -14,7 +14,7 @@
 	}
 
 	.header-name-desc{
-		font-size: 1em;
+		font-size: 1.1em;
 
 	}
 
@@ -23,7 +23,7 @@
 	}
 
 	.logo-img{
-		margin-left: 10px;
+		margin-left: 2%;
 	}
 
 	h4{
@@ -67,9 +67,9 @@
 	.work-img{
 		width:100%;
 	}
+}
 
 @media screen and (max-width: 365px){
-
 	.header-name, .header-name-desc{
     	font-size: 1em;
     	margin: 2% 1%;
