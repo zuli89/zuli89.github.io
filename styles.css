@@ -1,12 +1,12 @@
 
-body{
+body, html{
     font-family: 'Quicksand';
     margin-right: 1%;
     margin-left: 1%;
     max-width: 100%;
 }
 
-header, #featured-work{
+#header, #featured-work{
     display: flex;
     flex-wrap: wrap;
 }
