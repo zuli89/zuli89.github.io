@@ -1,4 +1,4 @@
-@media screen and (min-width:950px){
+@media screen and (min-width:950px) {
 	body {
 		width: 950px;
 		margin-right: auto;
@@ -6,38 +6,38 @@
 	}
 }
 
-@media screen and (max-width: 650px){
-	.header-name, .header-name-desc{
+@media screen and (max-width: 650px) {
+	.header-name, .header-name-desc {
     	font-size: 1.5em;
     	margin: 2% 1%;
 	}
 
-	.header-name-desc{
+	.header-name-desc {
 		font-size: 1em;
 
 	}
 
-	h2{
+	h2 {
 		font-size: 1.25em;
 	}
 
-	.logo-img{
+	.logo-img {
 		margin-left: 10px;
 	}
 
-	h4{
+	h4 {
 		font-size: 0.8em;
 	}
 
 }
 
-@media screen and (max-width: 750px){
-	.project{
+@media screen and (max-width: 750px) {
+	.project {
     	width:48%;
     	padding: 0 1% 0 1%;
 	}
 
-	#project-3{
+	#project-3 {
 		flex-grow: 0;
 		margin-left: auto;
 		margin-right: auto;
@@ -45,12 +45,12 @@
 	}
 }
 
-@media screen and (max-width: 550px){
+@media screen and (max-width: 550px) {
 	.header-text{
     	width: 85%;
     }
 
-	.project{
+	.project {
 		width:80%;
 		flex-grow:0;
 		margin-left: auto;
@@ -58,29 +58,29 @@
 	}
 }
 
-@media screen and (max-width: 450px){
-	.header-name{
+@media screen and (max-width: 450px) {
+	.header-name {
     	font-size: 1em;
     }
 
-	.header-name-desc{
+	.header-name-desc {
     	font-size: 0.8em;
     	margin: 2% 1%;
 	}
 }
 
 
-@media screen and (max-width: 360px){
-	.proj-desc{
+@media screen and (max-width: 360px) {
+	.proj-desc {
 		font-size: 0.8em;
 
 	}
 
-	h2{
+	h2 {
 		font-size: 1.1em;
 	}
 
-	h4{
+	h4 {
 		font-size: 0.9em;
 	}
 }

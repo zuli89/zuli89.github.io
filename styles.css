@@ -1,41 +1,41 @@
 
-body, html{
+body, html {
     font-family: 'Quicksand';
     margin-right: 1%;
     margin-left: 1%;
     max-width: 100%;
 }
 
-#header, #featured-work{
+#header, #featured-work {
     display: flex;
     flex-wrap: wrap;
 }
 
 /*header */
-header{
+header {
     border-bottom: 2px solid #afa3a9;
 }
 
-.logo{
+.logo {
     margin-top: auto;
     margin-bottom: auto;
     width: 12%;
 }
-.logo-img{
+.logo-img {
     width: 100%;
 
 }
-.header-text{
+.header-text {
     width: 83%;
     text-align: right;
     
 }
-.header-name{
+.header-name {
     font-size: 2em;
     margin: 2% 1%;
 }
 
-.header-name-desc{
+.header-name-desc {
     font-size: 1.5em;
     font-weight: 200;
     color: #afa3a9;
@@ -45,37 +45,37 @@ header{
 /*image*/
 
 
-.main-img{
+.main-img {
     max-width:100%;
     overflow: hidden;
     border-radius: 10px;
 }
 
-#image{
+#image {
     padding-top: 2%;
     border-radius: 3px;
 }
 
 /*featured work*/
-h2{
+h2 {
     font-size:1.7em;
     text-align: center;
     width: 100%;
 }
 
-h4, .proj-desc{
+h4, .proj-desc {
     text-align: center;
 
 }
 
 
-.project{
+.project {
     width: 30%;
     padding: 1% 1% 0 1%;
     flex-grow: 1;
 }
 
-.work-img{
+.work-img {
     width: 100%;
     border-radius: 6px;
 }
